@@ -1,2 +1,5 @@
 # hello-world
-Just a repository
+
+Hi,
+
+This is another branch of the repository: 'hello-world'.
